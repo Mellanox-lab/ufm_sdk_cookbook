@@ -23,6 +23,10 @@ Configuration
 -------------------------------------------------------- 
 Please modify sdk.cfg file to set the Fluentd and UFM parameters.
 
+Run  
+-------------------------------------------------------- 
+python app.py
+
 Use  
 -------------------------------------------------------- 
 This application is not a daemon; you should run it via time-based job scheduler (cron job).
