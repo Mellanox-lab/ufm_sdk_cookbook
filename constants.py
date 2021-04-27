@@ -1,7 +1,7 @@
 PLUGIN_NAME = "UFM_SDK"
 CONFIG_FILE = 'sdk.cfg'
 UFM_API_VERSIONING = 'app/versioning'
-UFM_API_VERSIONING_RESULT = 'api_results/versioining.json'
+UFM_API_VERSIONING_RESULT = 'api_results/versioning.json'
 UFM_API_SYSTEMS = 'resources/systems'
 UFM_API_SYSTEMS_RESULT = 'api_results/systems.json'
 UFM_API_PORTS = 'resources/ports'
